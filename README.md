@@ -1,1 +1,1 @@
-just some text
+This is Ken’s first git project!
